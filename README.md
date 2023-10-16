@@ -1,2 +1,2 @@
-#courseTower
-Repository for studying GoLang
+#goCourseTower
+Repository for studying GoLang in "БАШНЯ"
